@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "GPR_Radar_Footprints") (type "KiCad") (uri "${KIPRJMOD}/GPR_Radar_Footprints.pretty") (options "") (descr ""))
+)
