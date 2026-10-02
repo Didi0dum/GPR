@@ -1,7 +1,10 @@
+# KiCad-generated files and directories.
+.history/
 *-backups/
-*.kicad_prl
-fp-info-cache
 _autosave-*
+fp-info-cache
+~*.lck
+*.kicad_prl
 *.bak
 *-bak
 .DS_Store
