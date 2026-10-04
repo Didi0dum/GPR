@@ -1,0 +1,174 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "CVCO55CW-0500-1000" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "Y" (id 0) (at -10.174 8.13916 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "CVCO55CW-0500-1000" (id 1) (at -10.161 -10.161 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "CVCO55CW-0500-1000:XTAL_CVCO55CW-0500-1000" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "DigiKey_Part_Number" "744-1208-ND" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MF" "Crystek Corporation" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Description" "\n                        \n                            Oscillator, Voltage Controlled,500 to 1000MHz,12VDC,0.5 to 18VDC Vtune,SMD,+7dBm | Crystek Corporation CVCO55CW-0500-1000\n                        \n" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Package" "Custom Crystek Crystals" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Price" "None" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SnapEDA_Link" "https://www.snapeda.com/parts/CVCO55CW-0500-1000/Crystek+Corporation/view-part/?ref=snap" (id 9) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MP" "CVCO55CW-0500-1000" (id 10) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Availability" "Unavailable" (id 11) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Check_prices" "https://www.snapeda.com/parts/CVCO55CW-0500-1000/Crystek+Corporation/view-part/?ref=eda" (id 12) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "CVCO55CW-0500-1000_0_0"
+      (rectangle (start -10.16 -7.62) (end 10.16 7.62)
+        (stroke (width 0.254)) (fill (type background))
+      )
+      (pin passive line (at -12.7 0.0 0) (length 2.54)
+        (name "VT"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 12.7 5.08 180.0) (length 2.54)
+        (name "VCC"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "14"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 12.7 0.0 180.0) (length 2.54)
+        (name "RF-OUT"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 12.7 -5.08 180.0) (length 2.54)
+        (name "GND"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 12.7 -5.08 180.0) (length 2.54) hide
+        (name "GND"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 12.7 -5.08 180.0) (length 2.54) hide
+        (name "GND"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 12.7 -5.08 180.0) (length 2.54) hide
+        (name "GND"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 12.7 -5.08 180.0) (length 2.54) hide
+        (name "GND"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 12.7 -5.08 180.0) (length 2.54) hide
+        (name "GND"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 12.7 -5.08 180.0) (length 2.54) hide
+        (name "GND"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 12.7 -5.08 180.0) (length 2.54) hide
+        (name "GND"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 12.7 -5.08 180.0) (length 2.54) hide
+        (name "GND"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 12.7 -5.08 180.0) (length 2.54) hide
+        (name "GND"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 12.7 -5.08 180.0) (length 2.54) hide
+        (name "GND"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "13"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 12.7 -5.08 180.0) (length 2.54) hide
+        (name "GND"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "15"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 12.7 -5.08 180.0) (length 2.54) hide
+        (name "GND"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "16"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)

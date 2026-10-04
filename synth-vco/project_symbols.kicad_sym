@@ -949,7 +949,7 @@
 				)
 			)
 		)
-		(property "Footprint" "OPA192IDGKT:SOP65P490X110-8N"
+		(property "Footprint" "GPR_Radar_Footprints:SOP65P490X110-8N"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
