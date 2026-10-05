@@ -1,5 +1,5 @@
 
-(footprint IC_TPSM53603RDAR (layer F.Cu) (tedit 6ABF4BD3)
+(footprint IC_TPSM53603RDAR (layer F.Cu) (tedit 6ABFF879)
   (descr "")
   (attr smd)
   (fp_text reference REF** (at 0.127 -4.064 0) (layer F.SilkS)
