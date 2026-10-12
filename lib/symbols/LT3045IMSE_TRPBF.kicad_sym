@@ -418,7 +418,27 @@
 					)
 				)
 			)
-			(pin output line
+			(pin power_in line
+				(at 15.24 -6.35 180)
+				(length 5.08)
+				(name "EXP"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "13"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+		)
+		(symbol "LT3045IMSE_TRPBF_1_0"
+			(pin power_out line
 				(at 15.24 10.16 180)
 				(length 5.08)
 				(name "OUT"
@@ -436,7 +456,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin power_out line
 				(at 15.24 10.16 180)
 				(length 5.08)
 				(hide yes)
@@ -448,24 +468,6 @@
 					)
 				)
 				(number "12"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 15.24 -6.35 180)
-				(length 5.08)
-				(name "EXP"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "13"
 					(effects
 						(font
 							(size 1.016 1.016)
