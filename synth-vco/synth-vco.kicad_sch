@@ -15049,18 +15049,18 @@
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
 		)
 		(property "Value" "4.7u"
-			(at 426.466 87.122 0)
+			(at 426.466 86.106 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
@@ -16233,23 +16233,23 @@
 		(fields_autoplaced yes)
 		(uuid "1fa344d3-ce60-4012-a218-b0dd9e914fc0")
 		(property "Reference" "NT1"
-			(at 158.75 80.0099 90)
+			(at 158.75 80.645 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify left)
 			)
 		)
 		(property "Value" "NetTie_2"
-			(at 158.75 82.5499 90)
+			(at 158.75 81.915 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify left)
 			)
@@ -16319,18 +16319,18 @@
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
 		)
 		(property "Value" "10u"
-			(at 775.716 59.182 0)
+			(at 775.716 57.912 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
@@ -19186,18 +19186,18 @@
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
 		)
 		(property "Value" "22u"
-			(at 168.656 59.182 0)
+			(at 168.91 58.166 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
@@ -20653,23 +20653,23 @@
 		(fields_autoplaced yes)
 		(uuid "455771bf-2a81-45c9-929e-fc880e9b652a")
 		(property "Reference" "R29"
-			(at 748.03 83.8199 0)
+			(at 748.03 84.455 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify left)
 			)
 		)
 		(property "Value" "32.4K"
-			(at 748.03 86.3599 0)
+			(at 748.03 85.725 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify left)
 			)
@@ -21371,18 +21371,18 @@
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
 		)
 		(property "Value" "4.7u"
-			(at 620.776 59.182 0)
+			(at 620.776 58.166 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
@@ -21611,22 +21611,22 @@
 		(fields_autoplaced yes)
 		(uuid "535289e6-a56c-4975-9f9a-cab56b5134b0")
 		(property "Reference" "C10"
-			(at 361.95 284.48 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100n"
 			(at 361.95 287.02 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Value" "100n"
+			(at 361.95 288.29 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.762 0.762)
 				)
 			)
 		)
@@ -22957,18 +22957,18 @@
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
 		)
 		(property "Value" "10u"
-			(at 272.796 59.182 0)
+			(at 272.796 57.912 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
@@ -23117,18 +23117,18 @@
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
 		)
 		(property "Value" "4.7u"
-			(at 713.486 59.182 0)
+			(at 713.486 57.912 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
@@ -24290,18 +24290,18 @@
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
 		)
 		(property "Value" "10u"
-			(at 78.486 59.182 0)
+			(at 78.486 57.912 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
@@ -25564,18 +25564,18 @@
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
 		)
 		(property "Value" "4.7u"
-			(at 522.986 59.182 0)
+			(at 522.986 58.166 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
@@ -26755,22 +26755,22 @@
 		(fields_autoplaced yes)
 		(uuid "84985424-4f97-413a-9e13-8fcaa0c050b8")
 		(property "Reference" "C11"
-			(at 361.95 295.91 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1n"
 			(at 361.95 298.45 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Value" "1n"
+			(at 361.95 299.72 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.762 0.762)
 				)
 			)
 		)
@@ -26917,18 +26917,18 @@
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
 		)
 		(property "Value" "10u"
-			(at 403.606 59.182 0)
+			(at 403.606 57.912 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
@@ -27156,18 +27156,18 @@
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
 		)
 		(property "Value" "10u"
-			(at 210.566 59.182 0)
+			(at 210.82 57.912 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
@@ -29321,18 +29321,18 @@
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
 		)
 		(property "Value" "10u"
-			(at 369.316 59.182 0)
+			(at 369.316 58.166 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
@@ -32141,18 +32141,18 @@
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
 		)
 		(property "Value" "22u"
-			(at 180.086 59.182 0)
+			(at 180.086 57.912 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
@@ -32218,23 +32218,23 @@
 		(fields_autoplaced yes)
 		(uuid "b5599ac9-dc0f-4ff9-8eff-111e53315e8e")
 		(property "Reference" "R22"
-			(at 153.67 55.8799 0)
+			(at 153.67 56.515 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
 		)
 		(property "Value" "10K"
-			(at 153.67 58.4199 0)
+			(at 153.67 57.785 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
@@ -32378,23 +32378,23 @@
 		(fields_autoplaced yes)
 		(uuid "b7e835d8-2951-4010-af30-72ae8652be32")
 		(property "Reference" "R27"
-			(at 557.53 83.8199 0)
+			(at 557.53 84.455 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify left)
 			)
 		)
 		(property "Value" "32.4K"
-			(at 557.53 86.3599 0)
+			(at 557.53 85.725 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify left)
 			)
@@ -32620,18 +32620,18 @@
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
 		)
 		(property "Value" "10u"
-			(at 465.836 59.182 0)
+			(at 465.836 57.912 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
@@ -33332,23 +33332,23 @@
 		(fields_autoplaced yes)
 		(uuid "be3302d6-ee4b-464e-bb57-8e6e8015ed41")
 		(property "Reference" "R26"
-			(at 438.15 83.8199 0)
+			(at 438.15 84.455 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify left)
 			)
 		)
 		(property "Value" "49.9K"
-			(at 438.15 86.3599 0)
+			(at 438.15 85.725 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify left)
 			)
@@ -33418,18 +33418,18 @@
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
 		)
 		(property "Value" "0.47u"
-			(at 736.346 87.122 0)
+			(at 736.346 85.852 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
@@ -33578,18 +33578,18 @@
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
 		)
 		(property "Value" "4.7u"
-			(at 233.426 87.122 0)
+			(at 233.426 85.852 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
@@ -33659,18 +33659,18 @@
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
 		)
 		(property "Value" "10u"
-			(at 92.456 59.182 0)
+			(at 92.456 58.166 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
@@ -33972,23 +33972,23 @@
 		(fields_autoplaced yes)
 		(uuid "ca5b83c3-68c8-494b-8339-137b6b5a24a6")
 		(property "Reference" "R25"
-			(at 341.63 83.8199 0)
+			(at 341.63 84.455 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify left)
 			)
 		)
 		(property "Value" "49.9K"
-			(at 341.63 86.3599 0)
+			(at 341.63 85.725 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify left)
 			)
@@ -34710,18 +34710,18 @@
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
 		)
 		(property "Value" "0.47u"
-			(at 545.846 87.122 0)
+			(at 545.846 86.106 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
@@ -35183,18 +35183,18 @@
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
 		)
 		(property "Value" "10u"
-			(at 307.086 59.182 0)
+			(at 307.086 57.912 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
@@ -35417,23 +35417,23 @@
 		(fields_autoplaced yes)
 		(uuid "dc60c46b-1379-4fc2-bc74-e1f52837d3d7")
 		(property "Reference" "R24"
-			(at 245.11 83.8199 0)
+			(at 245.11 84.455 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify left)
 			)
 		)
 		(property "Value" "49.9K"
-			(at 245.11 86.3599 0)
+			(at 245.11 85.725 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify left)
 			)
@@ -37474,23 +37474,23 @@
 		(fields_autoplaced yes)
 		(uuid "ec361382-93db-49eb-9ac9-967b9fa4a997")
 		(property "Reference" "R28"
-			(at 655.32 83.8199 0)
+			(at 655.32 84.455 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify left)
 			)
 		)
 		(property "Value" "32.4K"
-			(at 655.32 86.3599 0)
+			(at 655.32 85.725 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify left)
 			)
@@ -38464,23 +38464,23 @@
 		(fields_autoplaced yes)
 		(uuid "f0a33ba2-2305-418e-9359-261ea03c982c")
 		(property "Reference" "R23"
-			(at 153.67 66.0399 0)
+			(at 153.67 66.675 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
 		)
 		(property "Value" "2K"
-			(at 153.67 68.5799 0)
+			(at 153.67 67.945 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
@@ -38630,18 +38630,18 @@
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
 		)
 		(property "Value" "0.47u"
-			(at 643.636 87.122 0)
+			(at 643.636 85.852 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
@@ -38869,18 +38869,18 @@
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
 		)
 		(property "Value" "10u"
-			(at 585.216 59.182 0)
+			(at 585.216 58.166 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
@@ -38950,18 +38950,18 @@
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
 		)
 		(property "Value" "4.7u"
-			(at 329.946 87.122 0)
+			(at 329.946 86.106 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
@@ -39662,18 +39662,18 @@
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
 		)
 		(property "Value" "10u"
-			(at 683.006 59.182 0)
+			(at 683.006 58.166 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 				(justify right)
 			)
