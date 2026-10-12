@@ -14020,7 +14020,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "30.9nF"
+		(property "Value" "33nF"
 			(at 334.264 324.358 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23601,7 +23601,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "6.02uF"
+		(property "Value" "5.6uF"
 			(at 236.22 343.535 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28930,7 +28930,7 @@
 				)
 			)
 		)
-		(property "Value" "86.4uH"
+		(property "Value" "82uH"
 			(at 323.85 317.754 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29166,7 +29166,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5.59"
+		(property "Value" "5.62"
 			(at 234.95 335.915 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30435,7 +30435,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "159nF"
+		(property "Value" "160nF"
 			(at 222.25 335.915 0)
 			(show_name no)
 			(do_not_autoplace no)
