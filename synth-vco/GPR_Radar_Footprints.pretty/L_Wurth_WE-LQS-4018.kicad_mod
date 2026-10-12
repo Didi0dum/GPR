@@ -1,0 +1,174 @@
+(footprint "L_Wurth_WE-LQS-4018"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Semi Shielded Power Inductor, body 4x3.7x1.8mm, https://www.we-online.com/en/components/products/WE-LQS#/articles/WE-LQS-4018")
+	(tags "SMT")
+	(property "Reference" "REF**"
+		(at 0 -3.1 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "ec0dd706-132a-455b-9ec8-db7a3360624d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "L_Wurth_WE-LQS-4018"
+		(at 0 3.1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9aebe281-80cc-4734-903f-ed7e1748257c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "810cb516-18a4-412c-93db-7b94441a03fd")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5ad9105d-a704-4837-b08a-e466bd055bbe")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2 2.06)
+		(end 2 2.06)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9055e363-7d94-4294-afed-a4cf31ce521c")
+	)
+	(fp_line
+		(start 0 -2.06)
+		(end 2 -2.06)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "31053b4b-91a0-43ac-8866-f897942fca32")
+	)
+	(fp_rect
+		(start -2.525 -2.1)
+		(end 2.525 2.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "4522f82b-75d9-4351-9787-f17603130b10")
+	)
+	(fp_line
+		(start -2 -0.925)
+		(end -2 1.85)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a609068b-82f2-4306-8413-7712944fe6e6")
+	)
+	(fp_line
+		(start -2 1.85)
+		(end 2 1.85)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "16346ad7-5ceb-4444-9dd7-402450674a14")
+	)
+	(fp_line
+		(start -1.075 -1.85)
+		(end -2 -0.925)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "efe951f8-87af-41df-ad86-0eacac469b2a")
+	)
+	(fp_line
+		(start 2 -1.85)
+		(end -1.075 -1.85)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0402eac0-601e-472f-9326-b20f4b0d5683")
+	)
+	(fp_line
+		(start 2 1.85)
+		(end 2 -1.85)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "22e021e9-c40d-4287-82ad-81642c3e2284")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "27335795-7da4-4a00-90ac-f20e5b39514b")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.525 0)
+		(size 1.5 3.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c9cd87a7-e19a-415c-b1f1-714c50399402")
+	)
+	(pad "2" smd rect
+		(at 1.525 0)
+		(size 1.5 3.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "63a2a7fc-1cc6-431f-b2d8-14c2a1053fd6")
+	)
+	(embedded_fonts no)
+	(model "${WE_3DMODEL_DIR}/Inductor_SMD_Wurth.3dshapes/L_Wurth_WE-LQS-4018.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
