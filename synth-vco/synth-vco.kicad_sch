@@ -19847,7 +19847,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3d29d773-e6fe-4306-ba0b-35acf54e8fd8")
 		(property "Reference" "Y1"
 			(at 110.49 299.72 90)
@@ -19859,8 +19858,8 @@
 				)
 			)
 		)
-		(property "Value" ""
-			(at 110.49 308.61 0)
+		(property "Value" "FT3MN 26 MHz"
+			(at 110.49 317.246 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
