@@ -11975,16 +11975,6 @@
 	)
 	(wire
 		(pts
-			(xy 549.91 293.37) (xy 552.45 293.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8a4ccd6b-849f-4492-a5e9-ad8c1c5c426f")
-	)
-	(wire
-		(pts
 			(xy 356.87 292.1) (xy 356.87 298.45)
 		)
 		(stroke
@@ -13335,16 +13325,6 @@
 	)
 	(wire
 		(pts
-			(xy 560.07 293.37) (xy 568.96 293.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d5158f34-accb-4f21-abd5-a2640a4cd794")
-	)
-	(wire
-		(pts
 			(xy 775.97 55.88) (xy 775.97 53.34)
 		)
 		(stroke
@@ -14174,7 +14154,7 @@
 		(uuid "4143acc9-0179-4df0-82c5-c982812c1a35")
 	)
 	(label "ATT_DATA"
-		(at 549.91 293.37 180)
+		(at 568.96 293.37 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -22658,85 +22638,6 @@
 			(project "synth-vco"
 				(path "/73cd0915-f93d-4399-bfe5-6d917fa8cde7"
 					(reference "C60")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 556.26 293.37 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "54f91cf1-6b02-4f82-9f0d-6b1ab0aab44b")
-		(property "Reference" "R20"
-			(at 556.26 296.926 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 0.762 0.762)
-				)
-			)
-		)
-		(property "Value" "10K"
-			(at 556.26 295.656 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 0.762 0.762)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 556.26 295.148 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 556.26 293.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 556.26 293.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c71a5e06-97ee-47ec-b998-84e5c1f7b55d")
-		)
-		(pin "2"
-			(uuid "57d40263-c7e7-4373-a43b-886719da441c")
-		)
-		(instances
-			(project "synth-vco"
-				(path "/73cd0915-f93d-4399-bfe5-6d917fa8cde7"
-					(reference "R20")
 					(unit 1)
 				)
 			)
