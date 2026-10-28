@@ -3,11 +3,23 @@
 	(generator "pcbnew")
 	(generator_version "10.0")
 	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -6.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "9242125a-8820-442e-8f31-125118ee2e79")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
 	(property "Value" "TCXO_FT3MN_3.2x2.5mm"
 		(at 0 -5 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "e2a3d727-e8e7-457a-beb8-4e9f21e63e79")
+		(uuid "487db8bc-a3fb-4ca7-819c-83ba6c0451c6")
 		(effects
 			(font
 				(size 1 1)
@@ -20,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "28854236-c230-460a-b39a-844f71911a22")
+		(uuid "7c4fed64-fa9a-4cfb-8c83-0f9863e34d3b")
 		(effects
 			(font
 				(size 1 1)
@@ -33,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "16e47049-f39c-4986-b67b-2802153faaba")
+		(uuid "4f331e4b-72f3-4963-9769-d96763b6fa39")
 		(effects
 			(font
 				(size 1 1)
@@ -41,36 +53,35 @@
 			)
 		)
 	)
-	(property "Reference" "REF**"
-		(at 0 -6.5 0)
-		(unlocked yes)
-		(layer "F.SilkS")
-		(uuid "5b870795-1df9-4ae3-97f1-60a0c89e9022")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.1)
-			)
-		)
-	)
 	(attr smd)
 	(duplicate_pad_numbers_are_jumpers no)
 	(fp_rect
-		(start -1.6 -1.25)
-		(end 1.6 1.25)
+		(start -2.03 -1.58)
+		(end 2.03 1.59)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "1c3a0ef9-26ea-407d-9b86-0bd76a3c8979")
+		(uuid "35882473-23f8-4bab-b5d3-0e00ac7d5bba")
+	)
+	(fp_circle
+		(center -1.12 2.08)
+		(end -1.28 2.08)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "a7630b0c-29ef-47c5-96f3-dd01ec85bede")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 -3.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "0cfde86e-8193-47e3-a84f-80635b145654")
+		(uuid "ff5cef22-3aa5-4960-955e-8f7073736805")
 		(effects
 			(font
 				(size 1 1)
@@ -82,25 +93,25 @@
 		(at -1.1 0.8)
 		(size 1.4 1.2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "5d02ee10-e02a-4405-b68c-aa271c0ce019")
+		(uuid "09f3c5df-097d-4e3a-9db4-5bb4458382e0")
 	)
 	(pad "2" smd rect
 		(at 1.1 0.8)
 		(size 1.4 1.2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "e57b1349-6608-4e8c-ba53-5f31542329f2")
+		(uuid "f1294da0-2bf0-41d9-a714-e9265c7ffa06")
 	)
 	(pad "3" smd rect
 		(at 1.1 -0.8)
 		(size 1.4 1.2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "767a4fa5-e98b-474d-94d2-967a70ea41ad")
+		(uuid "658151ac-07cb-4263-8a67-d96647158520")
 	)
 	(pad "4" smd rect
 		(at -1.1 -0.8)
 		(size 1.4 1.2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "a29781b3-1e6a-4cef-ad0e-b50df0f529d5")
+		(uuid "50789d10-01cc-4df7-9bff-bdae8c3cc56e")
 	)
 	(embedded_fonts no)
 	(model "/Users/didi/Downloads/FT3MNTUM26.0-T1--3DModel-STEP-368357.STEP"
