@@ -10997,6 +10997,16 @@
 	)
 	(wire
 		(pts
+			(xy 554.99 295.91) (xy 568.96 295.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b505821-bd4f-4d75-ab0b-fef7a46888b2")
+	)
+	(wire
+		(pts
 			(xy 123.19 297.18) (xy 134.62 297.18)
 		)
 		(stroke
@@ -11704,6 +11714,16 @@
 			(type default)
 		)
 		(uuid "63d0737f-465a-4de1-ba65-45b720787f66")
+	)
+	(wire
+		(pts
+			(xy 554.99 293.37) (xy 560.07 293.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65158f7e-63b9-4f60-96c1-f982d374de1b")
 	)
 	(wire
 		(pts
@@ -12934,6 +12954,16 @@
 			(type default)
 		)
 		(uuid "a98fc523-5309-4c3e-abed-f79b505edcdc")
+	)
+	(wire
+		(pts
+			(xy 567.69 293.37) (xy 568.96 293.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9d1ff4f-035c-42e1-b50f-44a93a7418e0")
 	)
 	(wire
 		(pts
@@ -14466,7 +14496,7 @@
 		(uuid "1f363b55-f561-4161-8c04-36b8498c7160")
 	)
 	(label "ATT_CLK"
-		(at 568.96 295.91 180)
+		(at 554.99 295.91 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14496,7 +14526,7 @@
 		(uuid "32d09c0c-56b3-4361-9c6b-290502f5ff1a")
 	)
 	(label "ATT_DATA"
-		(at 568.96 293.37 180)
+		(at 554.99 293.37 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -32149,7 +32179,7 @@
 				)
 			)
 		)
-		(property "Value" "MF-MSMF200"
+		(property "Value" "MF-MSMF200/16X"
 			(at 50.8 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32182,7 +32212,7 @@
 				)
 			)
 		)
-		(property "Description" "Polymeric PTC Resettable Fuse 8V 2 A Ih Surface Mount 1812 (4532 Metric), Concave"
+		(property "Description" "Polymeric PTC Resettable Fuse 16V 2A Ih Surface Mount 1812"
 			(at 50.8 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -35521,6 +35551,85 @@
 			(project "synth-vco"
 				(path "/73cd0915-f93d-4399-bfe5-6d917fa8cde7"
 					(reference "#PWR033")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 563.88 293.37 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "bcadf849-e980-492d-a513-325c420c3c0b")
+		(property "Reference" "R20"
+			(at 563.88 291.592 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Value" "10K"
+			(at 563.88 295.148 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 563.88 295.148 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 563.88 293.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 563.88 293.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "85173d3e-0ab5-442f-992c-4de57d9ac7a1")
+		)
+		(pin "2"
+			(uuid "cc48f9ec-19d1-498e-b2d9-00435dc53fe6")
+		)
+		(instances
+			(project "synth-vco"
+				(path "/73cd0915-f93d-4399-bfe5-6d917fa8cde7"
+					(reference "R20")
 					(unit 1)
 				)
 			)
