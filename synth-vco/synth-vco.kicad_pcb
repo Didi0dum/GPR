@@ -116,7 +116,7 @@
 		(filling no)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
-			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
+			(plot_on_all_layers_selection 0x00000000_00000000_00000000_02000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
 			(usegerberattributes yes)
@@ -146,9 +146,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "production/rev-a/gerber-and-drills/")
 		)
 	)
 	(footprint "TerminalBlock_CUI:TerminalBlock_CUI_TB007-508-02_1x02_P5.08mm_Horizontal"
@@ -217,12 +217,6 @@
 		(path "/300033dd-01bf-430c-9f6f-6907f7907a2f")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -563,12 +557,6 @@
 		(path "/535289e6-a56c-4975-9f9a-cab56b5134b0")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -721,12 +709,6 @@
 		(path "/d741de0b-dcf1-4382-92e4-92474d7779e2")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -879,12 +861,6 @@
 		(path "/2393d114-38c8-4478-8a27-b0b461730324")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1037,12 +1013,6 @@
 		(path "/5e113665-0506-42ab-86c6-83fb6fe242ba")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1195,12 +1165,6 @@
 		(path "/104a71b7-1c13-4096-b1b2-281bd09b3e65")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1353,12 +1317,6 @@
 		(path "/c72098c7-5194-4c3e-8a95-92fed5e3334f")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1511,12 +1469,6 @@
 		(path "/7c5f4bac-5378-4920-9818-5da4e599ab4c")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1669,12 +1621,6 @@
 		(path "/dc60c46b-1379-4fc2-bc74-e1f52837d3d7")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2210,12 +2156,6 @@
 		(path "/bda27343-a746-444f-b460-14660f5ccb24")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2368,12 +2308,6 @@
 		(path "/2324eabc-3efc-44b9-aa10-6f887059422c")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2526,12 +2460,6 @@
 		(path "/b92309fa-5f48-408a-8fb2-5657600317a6")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2623,7 +2551,7 @@
 		(uuid "14fdda03-eefb-49ab-9445-51e92cbf0315")
 		(at 143.8585 92.103)
 		(property "Reference" "Y3"
-			(at 0 0 0)
+			(at -8.3585 -3.553 0)
 			(layer "F.SilkS")
 			(uuid "6f92f2f6-895d-42f9-b4ea-fff396665eea")
 			(effects
@@ -2773,14 +2701,6 @@
 		(path "/b03ebbb3-a53b-4fa1-a613-1c952c438a36")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "2" "14" "10" "1" "3" "4" "5" "6" "7" "8" "9" "11" "12" "13" "15"
-					"16"
-				)
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2972,7 +2892,7 @@
 			(net "GND")
 			(pinfunction "GND_1")
 			(pintype "power_in")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "18141c14-e614-44eb-b84c-45162e56d9fa")
 		)
 		(pad "2" smd rect
@@ -2982,7 +2902,7 @@
 			(net "Net-(Y3-VT)")
 			(pinfunction "VT_2")
 			(pintype "passive")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "57e25613-8e81-4a11-8aa6-9c2334cdc2bf")
 		)
 		(pad "3" smd rect
@@ -2992,7 +2912,7 @@
 			(net "GND")
 			(pinfunction "GND_3")
 			(pintype "power_in")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "bf4a1bf8-d769-4254-89d0-aa42993adde7")
 		)
 		(pad "4" smd rect
@@ -3002,7 +2922,7 @@
 			(net "GND")
 			(pinfunction "GND_4")
 			(pintype "power_in")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "511ddd75-0b50-4ea3-975a-ee5d5f7f101d")
 		)
 		(pad "5" smd rect
@@ -3012,7 +2932,7 @@
 			(net "GND")
 			(pinfunction "GND_5")
 			(pintype "power_in")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "f797374b-f0d5-4919-9a48-eef6b7e5dee5")
 		)
 		(pad "6" smd rect
@@ -3022,7 +2942,7 @@
 			(net "GND")
 			(pinfunction "GND_6")
 			(pintype "power_in")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "ba37aa2c-dfcf-4cf9-b4e9-24a00df82630")
 		)
 		(pad "7" smd rect
@@ -3032,7 +2952,7 @@
 			(net "GND")
 			(pinfunction "GND_7")
 			(pintype "power_in")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "4ddba24f-b071-4b74-9e83-5639c8ce5b2b")
 		)
 		(pad "8" smd rect
@@ -3042,7 +2962,7 @@
 			(net "GND")
 			(pinfunction "GND_8")
 			(pintype "power_in")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "ea0a4052-1bff-4eb1-b490-996b1dda6249")
 		)
 		(pad "9" smd rect
@@ -3052,7 +2972,7 @@
 			(net "GND")
 			(pinfunction "GND_9")
 			(pintype "power_in")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "237ade47-2ddd-4b38-813a-fdf0f10baa61")
 		)
 		(pad "10" smd rect
@@ -3062,7 +2982,7 @@
 			(net "Net-(Y3-RF-OUT)")
 			(pinfunction "RF-OUT_10")
 			(pintype "output")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "d9ce3118-3e97-4322-9054-7f3d0f778978")
 		)
 		(pad "11" smd rect
@@ -3072,7 +2992,7 @@
 			(net "GND")
 			(pinfunction "GND_11")
 			(pintype "power_in")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "ed05f53e-209b-4f1d-a87a-dc9c0dcca811")
 		)
 		(pad "12" smd rect
@@ -3082,7 +3002,7 @@
 			(net "GND")
 			(pinfunction "GND_12")
 			(pintype "power_in")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "b2b9bed0-4657-4441-997e-c2d631756fe3")
 		)
 		(pad "13" smd rect
@@ -3092,7 +3012,7 @@
 			(net "GND")
 			(pinfunction "GND_13")
 			(pintype "power_in")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "73bc7d2a-e7da-46a0-9142-1efb29863020")
 		)
 		(pad "14" smd rect
@@ -3102,7 +3022,7 @@
 			(net "Net-(Y3-VCC)")
 			(pinfunction "VCC_14")
 			(pintype "power_in")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "52abba5c-29c2-4eb9-8370-cdb5391d17e1")
 		)
 		(pad "15" smd rect
@@ -3112,7 +3032,7 @@
 			(net "GND")
 			(pinfunction "GND_15")
 			(pintype "power_in")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "80a88bf2-6306-4e14-bb14-22d70288ef4c")
 		)
 		(pad "16" smd rect
@@ -3122,7 +3042,7 @@
 			(net "GND")
 			(pinfunction "GND_16")
 			(pintype "power_in")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "a31e6fd3-09f8-422c-a0a7-1f9b9e6c7191")
 		)
 		(embedded_fonts no)
@@ -3193,12 +3113,6 @@
 		(path "/d60e5824-a818-4a56-973a-651c5b909d49")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3527,14 +3441,6 @@
 		(path "/4fee1a81-c23c-4209-a1d1-bfa07b2a831a")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "2" "1" "4" "3" "6" "5" "8" "7" "10" "9" "12" "11" "14" "13" "16"
-					"15" "18" "17" "20" "19"
-				)
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3934,12 +3840,6 @@
 		(path "/85441b36-eade-449b-9c86-87d087328ebf")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4092,12 +3992,6 @@
 		(path "/b4aaf3fb-f354-41f6-8f89-aaf8a36e96f2")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4250,12 +4144,6 @@
 		(path "/ed668ba2-1e0e-444a-a457-72be63d307ba")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4408,12 +4296,6 @@
 		(path "/e4e22241-3604-4ddc-b2eb-9bebaf64b14b")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4566,12 +4448,6 @@
 		(path "/6997adc8-67f9-46df-a860-07e9729a8e59")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4724,12 +4600,6 @@
 		(path "/abb582a8-afe6-40cf-b739-82fc686c869f")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4882,12 +4752,6 @@
 		(path "/1aecf849-b992-4784-af83-31266998e8d4")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5040,12 +4904,6 @@
 		(path "/6932c30f-808e-4eeb-a9ba-8432ad30e382")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5198,12 +5056,6 @@
 		(path "/f39330d2-6f8f-4e1d-acd9-0ab1f7b84179")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5356,12 +5208,6 @@
 		(path "/fd383e68-e0c1-4d86-b094-e186bcf2d6ac")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5514,12 +5360,6 @@
 		(path "/c2741b1e-c723-451c-943f-017e83d6c5ad")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5800,12 +5640,7 @@
 		(path "/281244f1-6677-4449-9404-c5b9dff1872d")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "2_4")
-			)
-		)
+		(solder_mask_margin 0)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -6002,7 +5837,7 @@
 			(net "Net-(AR1-RFIN)")
 			(pinfunction "RFIN_1")
 			(pintype "input")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "96326e28-a3c2-4caf-864a-d440613224bf")
 		)
 		(pad "2_4" smd custom
@@ -6178,7 +6013,7 @@
 			(net "Net-(AR1-RFOUT)")
 			(pinfunction "RFOUT_3")
 			(pintype "output")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "8ea57231-a4a9-4619-8afc-a5b389414c85")
 		)
 		(embedded_fonts no)
@@ -6249,12 +6084,6 @@
 		(path "/62457299-3371-44d9-be51-d9a3844ac2d2")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6407,12 +6236,6 @@
 		(path "/828bd69e-5b17-4f24-9c1e-e2957b8c1f9a")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6565,12 +6388,6 @@
 		(path "/0a3f01f1-898a-4b12-b14a-3a41747153ca")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6723,12 +6540,6 @@
 		(path "/03f00f28-4783-4a21-a361-e2a73d4ab75d")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6881,12 +6692,6 @@
 		(path "/ae1f86ce-2940-4bd3-bf85-3a4bd61c5bdf")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7052,12 +6857,6 @@
 		(path "/b7e835d8-2951-4010-af30-72ae8652be32")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7210,12 +7009,6 @@
 		(path "/1e3ad9de-bdd4-46c1-ae1b-4fd770ba2030")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7368,12 +7161,6 @@
 		(path "/bb248c1e-1768-42c8-8dfa-4259ae7fecc7")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7526,12 +7313,6 @@
 		(path "/ca5b83c3-68c8-494b-8339-137b6b5a24a6")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7684,12 +7465,6 @@
 		(path "/23fe6e21-7587-48dc-80fb-2b4363decdb3")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7842,12 +7617,6 @@
 		(path "/78029262-ad78-4327-ad09-1522b320208b")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8063,12 +7832,6 @@
 		(path "/1057a271-c3ad-401b-94e8-246c8c4dd5db")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8391,12 +8154,6 @@
 		(path "/397f623a-a264-49d5-8f0c-a8a5064e6ec1")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "7" "8" "11" "12" "10" "5" "6" "13" "9")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8672,6 +8429,7 @@
 			(net "GND")
 			(pinfunction "EXP_13")
 			(pintype "power_in")
+			(solder_mask_margin 0)
 			(uuid "9ff279cb-6010-41d3-9356-b1f653353beb")
 		)
 		(embedded_fonts no)
@@ -8742,12 +8500,6 @@
 		(path "/3325ec55-680a-4bb7-984e-c622c68011d2")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8892,12 +8644,6 @@
 		(path "/80cf660d-eb6e-407f-b970-a9bfc51a8531")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9402,12 +9148,6 @@
 		(path "/6c483349-63f3-4795-8a2b-a6fa7a1d1819")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9560,12 +9300,6 @@
 		(path "/43310d16-5f8e-463c-bf4b-2d775e8e3fd8")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9820,12 +9554,6 @@
 		(path "/aa2be55e-985a-465d-90a4-3d666594d061")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5" "11" "9" "10" "8" "7" "6")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9848,17 +9576,49 @@
 			(layer "F.SilkS")
 			(uuid "65904edd-7fde-4354-b7cc-a056fa1ca9b8")
 		)
-		(fp_poly
-			(pts
-				(xy -0.8763 -1.2446) (xy -0.8763 1.2446) (xy 0.8763 1.2446) (xy 0.8763 -1.2446)
-			)
+		(fp_rect
+			(start -0.74 0.2)
+			(end -0.16 1)
 			(stroke
-				(width 0.0254)
+				(width 0.01)
 				(type solid)
 			)
 			(fill yes)
 			(layer "F.Paste")
-			(uuid "6f5f73f6-6d29-40af-987f-132cba9d0be5")
+			(uuid "e827a92a-fea8-4e43-b25b-b4d42caa43d4")
+		)
+		(fp_rect
+			(start 0.17 0.2)
+			(end 0.75 1)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.Paste")
+			(uuid "87fad9c2-5b17-4593-a961-4e580fd40f6d")
+		)
+		(fp_rect
+			(start -0.74 -1.01)
+			(end -0.16 -0.21)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.Paste")
+			(uuid "a58a18b7-9d3c-4c55-9950-28a49d428787")
+		)
+		(fp_rect
+			(start 0.17 -1.01)
+			(end 0.75 -0.21)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.Paste")
+			(uuid "d1b62fe8-b743-4c6a-ac34-bea9ce18d7c7")
 		)
 		(fp_line
 			(start -1.5494 1.5494)
@@ -9938,7 +9698,7 @@
 			(net "+20V_PRE")
 			(pinfunction "IN_1")
 			(pintype "input")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "68b6b402-7b0e-4c49-9188-9d3d040a8a44")
 		)
 		(pad "2" smd rect
@@ -9948,7 +9708,7 @@
 			(net "+20V_PRE")
 			(pinfunction "IN_2")
 			(pintype "input")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "2ff4fda4-1ff6-4be5-83ef-e8daac4db937")
 		)
 		(pad "3" smd rect
@@ -9958,7 +9718,7 @@
 			(net "+20V_PRE")
 			(pinfunction "~{SHDN}_3")
 			(pintype "passive")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "42048b04-872d-4f3f-b7a4-04986be737e5")
 		)
 		(pad "4" smd rect
@@ -9968,7 +9728,7 @@
 			(net "Net-(U14-PWRGD)")
 			(pinfunction "PWRGD_4")
 			(pintype "open_collector")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "dba2dfb4-c147-4fc8-b825-f2806974b0a3")
 		)
 		(pad "5" smd rect
@@ -9978,7 +9738,7 @@
 			(net "GND")
 			(pinfunction "IMAX_5")
 			(pintype "passive")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "74024979-7fbb-42a0-90ba-f45434040dba")
 		)
 		(pad "6" smd rect
@@ -9988,7 +9748,7 @@
 			(net "Net-(U14-REF{slash}BYP)")
 			(pinfunction "REF/BYP_6")
 			(pintype "passive")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "3c92815e-fc3e-4a78-bb17-bf69f7db84b7")
 		)
 		(pad "7" smd rect
@@ -9998,7 +9758,7 @@
 			(net "GND")
 			(pinfunction "GND_7")
 			(pintype "power_in")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "5a869539-4425-4962-89f4-73a20f9b19a3")
 		)
 		(pad "8" smd rect
@@ -10008,7 +9768,7 @@
 			(net "Net-(U14-ADJ)")
 			(pinfunction "ADJ_8")
 			(pintype "bidirectional")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "7932d27c-c96b-4046-a447-7ed759d3c611")
 		)
 		(pad "9" smd rect
@@ -10018,7 +9778,7 @@
 			(net "+12V_VCO")
 			(pinfunction "OUT_9")
 			(pintype "power_out")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "b5ad26f8-ccbc-42c0-b87a-4a77462261a7")
 		)
 		(pad "10" smd rect
@@ -10028,7 +9788,7 @@
 			(net "+12V_VCO")
 			(pinfunction "OUT_10")
 			(pintype "power_out")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "3f5bbb02-c889-46f3-bf9a-db28c10eb29b")
 		)
 		(pad "11" smd rect
@@ -10038,7 +9798,7 @@
 			(net "GND")
 			(pinfunction "GND_11")
 			(pintype "power_in")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "f3c98415-251d-4620-9992-354fc25913c1")
 		)
 		(embedded_fonts no)
@@ -10109,12 +9869,6 @@
 		(path "/71fcdf4d-f851-40e0-8624-70ac5e948066")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10267,12 +10021,6 @@
 		(path "/1fb36411-ad95-4622-9ab3-76dbe3301190")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10410,12 +10158,6 @@
 		(path "/9beeb20f-3ce1-4d65-ae22-b52a6bd7093f")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10628,12 +10370,6 @@
 		(path "/f4093fa1-48da-4b2d-b2bb-429abc1025e2")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10943,12 +10679,6 @@
 		(path "/8f7e4b14-344f-4d0f-a78a-ffb9f790f499")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "7" "8" "11" "12" "10" "5" "6" "13" "9")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11224,6 +10954,7 @@
 			(net "GND")
 			(pinfunction "EXP_13")
 			(pintype "power_in")
+			(solder_mask_margin 0)
 			(uuid "2bdee01f-dca8-4156-8a55-f9a4f381fe97")
 		)
 		(embedded_fonts no)
@@ -11294,12 +11025,6 @@
 		(path "/bacd05c1-f028-4c27-b8cb-b25080f82e11")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11452,12 +11177,6 @@
 		(path "/777ff256-9ae2-4395-99c3-ef848d0cdb1a")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11601,12 +11320,6 @@
 		(path "/e3858114-4f58-4ba8-b3e0-5df39de8cc6e")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12013,12 +11726,6 @@
 		(path "/34a86a75-5f57-4938-9f35-706c01c3028e")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13095,12 +12802,6 @@
 		(path "/a1a99e40-8681-4fa5-a4fa-d4b8fd3d0c91")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13289,12 +12990,6 @@
 		(path "/e6074f08-d1e7-4843-99bd-c6583b0af455")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13447,12 +13142,6 @@
 		(path "/93537f7f-9d2a-42d6-94ee-ec66ffc04c40")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13607,12 +13296,6 @@
 		(path "/20049ca6-2c4b-4fc0-bc53-870bfb1f99b0")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13765,12 +13448,6 @@
 		(path "/708cd50e-506e-4261-83c1-cfebec5f8458")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13923,12 +13600,6 @@
 		(path "/f19a5576-3cde-4cc3-9afc-2a45b85ba9ed")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14081,12 +13752,6 @@
 		(path "/b3ab78df-991d-4727-aa2e-5e5319ed15c8")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14239,12 +13904,6 @@
 		(path "/55165940-baa4-4fbd-aa40-3fdf8e0401fa")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14397,12 +14056,6 @@
 		(path "/455771bf-2a81-45c9-929e-fc880e9b652a")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14555,12 +14208,6 @@
 		(path "/52bc8b09-6bff-48a9-b42d-3f99fe4e8725")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14713,12 +14360,6 @@
 		(path "/e9cd203d-dcb1-4fe3-ae6f-04b0010fb262")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14871,12 +14512,6 @@
 		(path "/05fe802d-1726-4d1f-a51c-f46fb3c79985")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15029,12 +14664,6 @@
 		(path "/d75c654f-6b6b-4b2e-b5c7-f2fa53504e0a")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15187,12 +14816,6 @@
 		(path "/81a887a5-c8e6-4d66-b2e6-f32795505797")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15501,12 +15124,6 @@
 		(path "/32c4af76-952f-4746-a463-1951c711924f")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "7" "8" "11" "12" "10" "5" "6" "13" "9")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15782,6 +15399,7 @@
 			(net "GND")
 			(pinfunction "EXP_13")
 			(pintype "power_in")
+			(solder_mask_margin 0)
 			(uuid "2d51a0af-7b08-49d6-9920-46ab3151b52f")
 		)
 		(embedded_fonts no)
@@ -15852,12 +15470,6 @@
 		(path "/6e0b4a45-7665-4e58-9440-664bf006eb00")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16010,12 +15622,6 @@
 		(path "/f3f820b0-abf8-45d2-93e3-8ef367d42703")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16168,12 +15774,6 @@
 		(path "/a6327be4-3ef2-48d0-8ae7-33130cd73e52")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16326,12 +15926,6 @@
 		(path "/ca8830f3-4e94-4e1a-9d53-8c570c9a8a31")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16484,12 +16078,6 @@
 		(path "/945819e9-8c32-4db3-8977-e44aec9187f4")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16642,12 +16230,6 @@
 		(path "/dcdcb0fe-17df-4007-aa2e-acf1265e8597")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16800,12 +16382,6 @@
 		(path "/6977e83a-1e52-4600-b3a4-506f176a3146")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16958,14 +16534,6 @@
 		(path "/5859c5b8-36ed-4c3d-990d-0710ca20d1b1")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "13" "9" "12" "14" "15" "16" "23" "6" "7" "8" "1" "18" "3" "2"
-					"25" "19" "10" "22" "11" "21" "24" "20" "17" "4" "5"
-				)
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17641,12 +17209,6 @@
 		(path "/fdc48bfb-1f37-42bd-89c7-24da07c7c293")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17799,12 +17361,6 @@
 		(path "/5bde2576-0d29-47b6-8310-5cf016cdd12e")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17949,12 +17505,6 @@
 		(path "/2472a160-6f41-4290-8ee3-4cef087b654e")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18459,12 +18009,6 @@
 		(path "/a28f6eb0-985d-4601-9986-796b01f1cfc7")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18771,12 +18315,6 @@
 		(path "/8dbc5733-2cfa-463f-99c0-94fb75731475")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "7" "8" "11" "12" "10" "5" "6" "13" "9")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19052,6 +18590,7 @@
 			(net "GND")
 			(pinfunction "EXP_13")
 			(pintype "power_in")
+			(solder_mask_margin 0)
 			(uuid "e5c1c217-43a6-4cd9-8c52-15ea0b8d8821")
 		)
 		(embedded_fonts no)
@@ -19122,12 +18661,6 @@
 		(path "/8d996343-ae50-4ab4-9290-2fd5fa58e085")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19280,12 +18813,6 @@
 		(path "/bb21bf70-1c63-45c9-88ea-cd3ff5f32494")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19579,15 +19106,6 @@
 		(path "/30cc147d-1ed4-4d2b-b7fc-7ba8b81db385")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "14" "2" "7" "8" "9" "13" "6" "4" "5" "10" "3" "11" "12" "15"
-					"15_1" "15_2" "15_3" "15_4" "15_5" "15_6" "15_7" "15_8" "15_9" "15_10"
-					"15_11"
-				)
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -21351,12 +20869,6 @@
 		(path "/0554e5bd-bbff-4a4f-9b4f-9033c5515e1f")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21509,12 +21021,6 @@
 		(path "/f1e38804-c311-4d86-9bad-de3fc5146b4b")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21667,12 +21173,6 @@
 		(path "/3cbdbf9c-817f-41d2-9513-3560dfc11b39")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21819,12 +21319,6 @@
 		(path "/1fa344d3-ce60-4012-a218-b0dd9e914fc0")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr exclude_from_bom allow_missing_courtyard)
 		(net_tie_pad_groups "1, 2")
 		(duplicate_pad_numbers_are_jumpers no)
@@ -21926,12 +21420,6 @@
 		(path "/505c8272-d3c3-4082-83be-fb00ac31342d")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22084,12 +21572,6 @@
 		(path "/10a659d5-4dc0-4eb9-ab0e-edc424432521")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22242,12 +21724,6 @@
 		(path "/bcadf849-e980-492d-a513-325c420c3c0b")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22400,12 +21876,6 @@
 		(path "/84985424-4f97-413a-9e13-8fcaa0c050b8")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22558,12 +22028,6 @@
 		(path "/d6446c1d-3d5a-461d-b2e8-14aa6ece9d07")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22716,12 +22180,6 @@
 		(path "/e8133f33-5b27-405b-99f6-de1d15008d68")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22874,12 +22332,6 @@
 		(path "/a7166fb8-c6ac-4bc1-b3f3-1d6f23abcb8b")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23032,12 +22484,6 @@
 		(path "/658c9fbb-c150-4341-912a-195306247000")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23130,9 +22576,9 @@
 		(at 169.74 69.325 -90)
 		(descr "<b>CD636</b>http://www.minicircuits.com/cgi-bin/inquery.cgi?querystring=CD636&searchtype=case&x=21&y=7")
 		(property "Reference" "U3"
-			(at -1.225 0.3125 90)
+			(at -4.075 4.69 180)
 			(layer "F.SilkS")
-			(uuid "834cc8b0-3b18-499a-a464-bcdbb68ebbdb")
+			(uuid "bc4fed13-41a4-407a-9173-823b8e5a99e2")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -23143,7 +22589,7 @@
 		(property "Value" "ADP-2-10+"
 			(at -0.635 4.8025 90)
 			(layer "F.Fab")
-			(uuid "52583738-5944-40d3-b84d-9707aae3c298")
+			(uuid "0f64da66-ac83-4d95-9c4b-26835a73ad7c")
 			(effects
 				(font
 					(size 1 1)
@@ -23155,7 +22601,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7e051acb-c633-4269-8a77-5652c46965be")
+			(uuid "0df4edb4-acde-483f-8859-ffe25b0cdbd4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23166,7 +22612,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1bdc14fd-3238-4945-8ac0-36062873fd7f")
+			(uuid "a6c831a9-affc-438e-bbee-2ac886386400")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23176,12 +22622,6 @@
 		(path "/cbe1475b-49dd-4bdd-9711-5458bc7c10e6")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "5" "6" "3" "4")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23423,12 +22863,6 @@
 		(path "/915107bc-7d33-49ae-9cb7-55fa8db6468a")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23735,12 +23169,6 @@
 		(path "/f081c8ec-aa56-40aa-85e8-4f01cd25dc74")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "7" "8" "11" "12" "10" "5" "6" "13" "9")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24016,6 +23444,7 @@
 			(net "GND")
 			(pinfunction "EXP_13")
 			(pintype "power_in")
+			(solder_mask_margin 0)
 			(uuid "a570e25f-c113-42e4-ac82-992bc7c33b38")
 		)
 		(embedded_fonts no)
@@ -24188,12 +23617,6 @@
 		(path "/8e436fef-eb33-4767-8350-69919d0c008c")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "2" "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24393,12 +23816,6 @@
 		(path "/afaa2234-68e3-4860-b5d3-a4a4dfafa951")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24551,12 +23968,6 @@
 		(path "/6ceba520-bdf0-4774-88e6-e6f95081a8a7")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24709,12 +24120,6 @@
 		(path "/d95e1776-d792-401d-9747-4359a7671bc8")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24969,12 +24374,6 @@
 		(path "/6ba3b813-4349-452d-96aa-dcb1de0b5f95")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5" "11" "9" "10" "8" "7" "6")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24997,17 +24396,49 @@
 			(layer "F.SilkS")
 			(uuid "abee022d-33cc-4d48-87a6-669904eb5161")
 		)
-		(fp_poly
-			(pts
-				(xy -0.8763 -1.2446) (xy -0.8763 1.2446) (xy 0.8763 1.2446) (xy 0.8763 -1.2446)
-			)
+		(fp_rect
+			(start 0.17 -1.01)
+			(end 0.75 -0.21)
 			(stroke
-				(width 0.0254)
+				(width 0.01)
 				(type solid)
 			)
 			(fill yes)
 			(layer "F.Paste")
-			(uuid "49576fd1-1c62-4523-a573-58382d2b6d7e")
+			(uuid "edf59896-1b99-4034-a72c-62689fb38cdd")
+		)
+		(fp_rect
+			(start -0.74 -1.01)
+			(end -0.16 -0.21)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.Paste")
+			(uuid "fbbf40b5-b481-4f4c-8f4b-e835dd03b036")
+		)
+		(fp_rect
+			(start 0.17 0.2)
+			(end 0.75 1)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.Paste")
+			(uuid "b832a7fc-4473-4704-ae8a-d5806d92610d")
+		)
+		(fp_rect
+			(start -0.74 0.2)
+			(end -0.16 1)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.Paste")
+			(uuid "b13dc695-a147-4ef6-b430-bb5e43d8a68e")
 		)
 		(fp_line
 			(start 1.5494 -1.5494)
@@ -25087,7 +24518,7 @@
 			(net "+20V_PRE")
 			(pinfunction "IN_1")
 			(pintype "input")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "35bf4227-6400-4255-9145-193c0e5e73f1")
 		)
 		(pad "2" smd rect
@@ -25097,7 +24528,7 @@
 			(net "+20V_PRE")
 			(pinfunction "IN_2")
 			(pintype "input")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "0ceecd4f-ab8f-46aa-83c1-930b886e214d")
 		)
 		(pad "3" smd rect
@@ -25107,7 +24538,7 @@
 			(net "+20V_PRE")
 			(pinfunction "~{SHDN}_3")
 			(pintype "passive")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "52c2116a-1883-4b8d-afdf-1c3d3bc3bb7e")
 		)
 		(pad "4" smd rect
@@ -25117,7 +24548,7 @@
 			(net "Net-(U15-PWRGD)")
 			(pinfunction "PWRGD_4")
 			(pintype "open_collector")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "7ce633aa-e5be-4211-a24c-4b6ebe296ab8")
 		)
 		(pad "5" smd rect
@@ -25127,7 +24558,7 @@
 			(net "GND")
 			(pinfunction "IMAX_5")
 			(pintype "passive")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "07b16d6b-ecfe-4321-a039-2fddada29285")
 		)
 		(pad "6" smd rect
@@ -25137,7 +24568,7 @@
 			(net "Net-(U15-REF{slash}BYP)")
 			(pinfunction "REF/BYP_6")
 			(pintype "passive")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "e812b99d-0e7e-419f-a5cc-bbbc8f890720")
 		)
 		(pad "7" smd rect
@@ -25147,7 +24578,7 @@
 			(net "GND")
 			(pinfunction "GND_7")
 			(pintype "power_in")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "99e4ba46-1e8e-4f4d-993e-0f6c7e57b6c4")
 		)
 		(pad "8" smd rect
@@ -25157,7 +24588,7 @@
 			(net "Net-(U15-ADJ)")
 			(pinfunction "ADJ_8")
 			(pintype "bidirectional")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "f51e759c-de61-44c0-9dfc-966873ac5c6e")
 		)
 		(pad "9" smd rect
@@ -25167,7 +24598,7 @@
 			(net "+18V_OPA")
 			(pinfunction "OUT_9")
 			(pintype "power_out")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "9f958117-fb1c-41bc-bee7-a563583e3db1")
 		)
 		(pad "10" smd rect
@@ -25177,7 +24608,7 @@
 			(net "+18V_OPA")
 			(pinfunction "OUT_10")
 			(pintype "power_out")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "d3a27775-e424-491d-9623-7f59dab96b0d")
 		)
 		(pad "11" smd rect
@@ -25187,7 +24618,7 @@
 			(net "GND")
 			(pinfunction "GND_11")
 			(pintype "power_in")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "24b68662-016c-4c0a-8edb-035b945f02a3")
 		)
 		(embedded_fonts no)
@@ -25258,12 +24689,6 @@
 		(path "/8cce00e3-76a7-4fdd-a1e1-9c98feb12111")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25416,12 +24841,6 @@
 		(path "/42195513-9c98-423d-8427-601d153d5385")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25574,12 +24993,6 @@
 		(path "/24a12936-34df-4fa7-afe1-8de09a62e6b7")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25732,12 +25145,6 @@
 		(path "/4f99dd3d-a251-4a63-8fbe-5d0c9b2f384d")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26044,12 +25451,6 @@
 		(path "/dc71a874-d855-4d08-a2f9-9faa68d3858f")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "7" "8" "11" "12" "10" "5" "6" "13" "9")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26325,6 +25726,7 @@
 			(net "GND")
 			(pinfunction "EXP_13")
 			(pintype "power_in")
+			(solder_mask_margin 0)
 			(uuid "53873cf5-bd55-4be9-bc43-c0073eef2c2f")
 		)
 		(embedded_fonts no)
@@ -26555,12 +25957,6 @@
 		(path "/c14044f2-bbaf-48f2-870e-44f80290b1c5")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26753,12 +26149,6 @@
 		(path "/42b177e4-71de-4643-93ec-bba9e5039510")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27000,12 +26390,6 @@
 		(path "/dd291e88-b1b7-4cdc-8786-938e8f77efa2")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "2" "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27155,7 +26539,7 @@
 		(uuid "d5c3637a-edb4-46cd-ba41-f9e689d6cb01")
 		(at 132.075 107.075 90)
 		(property "Reference" "U5"
-			(at 0 0 90)
+			(at -4.425 -0.975 90)
 			(layer "F.SilkS")
 			(uuid "c1ddbef6-0d1c-40d7-845b-f6bca1df1a3f")
 			(effects
@@ -27201,12 +26585,6 @@
 		(path "/ea5f10fe-9467-4bb4-9d94-3a1aef0e4987")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "8" "7" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27339,7 +26717,7 @@
 			(net "unconnected-(U5-NC-Pad1)")
 			(pinfunction "NC_1")
 			(pintype "no_connect")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "ea679f7d-db47-4ca6-a281-9f7ebf43e12e")
 		)
 		(pad "2" smd roundrect
@@ -27350,7 +26728,7 @@
 			(net "Net-(U5--IN)")
 			(pinfunction "-IN_2")
 			(pintype "input")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "4027589f-c01f-4541-a365-f3800aefdc45")
 		)
 		(pad "3" smd roundrect
@@ -27361,7 +26739,7 @@
 			(net "Net-(U1-CP)")
 			(pinfunction "+IN_3")
 			(pintype "input")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "bc28c573-f349-4bca-a480-953482599d5e")
 		)
 		(pad "4" smd roundrect
@@ -27372,7 +26750,7 @@
 			(net "GND")
 			(pinfunction "V-_4")
 			(pintype "power_in")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "b039e7f9-baf4-4ae1-8434-6625cf3eaaf0")
 		)
 		(pad "5" smd roundrect
@@ -27383,7 +26761,7 @@
 			(net "unconnected-(U5-NC-Pad5)")
 			(pinfunction "NC_5")
 			(pintype "no_connect")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "2fc21508-ee57-4d22-8165-de57275439c5")
 		)
 		(pad "6" smd roundrect
@@ -27394,7 +26772,7 @@
 			(net "Net-(U5-OUT)")
 			(pinfunction "OUT_6")
 			(pintype "output")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "7b893997-6c8b-46f4-97a7-6c2862f1026d")
 		)
 		(pad "7" smd roundrect
@@ -27405,7 +26783,7 @@
 			(net "+18V_OPA")
 			(pinfunction "V+_7")
 			(pintype "power_in")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "bb999667-356f-435f-87e6-9f0a762081ae")
 		)
 		(pad "8" smd roundrect
@@ -27416,7 +26794,7 @@
 			(net "unconnected-(U5-NC-Pad8)")
 			(pinfunction "NC_8")
 			(pintype "no_connect")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "00bd7da1-5b7f-4ff3-9c00-9defc1bbf1ab")
 		)
 		(embedded_fonts no)
@@ -27487,12 +26865,6 @@
 		(path "/d088ea2a-c06d-47ff-b03d-6cd20656fcb3")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27588,7 +26960,7 @@
 		(property "Reference" "FL4"
 			(at -0.0375 -2.33 0)
 			(layer "F.SilkS")
-			(uuid "826f414c-acce-4164-8f78-a246d88cc93b")
+			(uuid "f29ce5a5-1754-4b99-8813-de0c55e5b45e")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -27599,7 +26971,7 @@
 		(property "Value" "LFCN-900+"
 			(at 0 2.5 0)
 			(layer "F.Fab")
-			(uuid "2d9cecf0-5fd5-475f-8ab3-43e9cc6250a5")
+			(uuid "d5d5bf0c-4b27-42e6-a60b-a67825c84c6f")
 			(effects
 				(font
 					(size 1 1)
@@ -27612,7 +26984,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b2aefc1f-0ca5-4262-80ce-fa7c4e09ffab")
+			(uuid "2120e242-4aff-44be-b8a6-3e9e6f696025")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27625,7 +26997,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c2892165-2932-45cd-81bf-6c08ed32cf0f")
+			(uuid "becb7dcb-208e-44bd-a97d-c847d5133cf8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27636,12 +27008,6 @@
 		(path "/8ea23625-6e5c-4ce4-9478-6b9bd8fa6107")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28048,12 +27414,6 @@
 		(path "/805a3705-a238-45fe-97b4-1e62ed7f9d9b")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28197,14 +27557,6 @@
 		(path "/36851a1f-547b-4067-ab85-0d1a4e8a9928")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5" "21" "6" "20" "7" "19" "8" "18" "9" "17" "10"
-					"16" "15" "14" "13" "12" "11"
-				)
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28259,6 +27611,50 @@
 			(uuid "6b1f59c3-64cb-4402-a5f5-fa3d8d7fb1cb")
 		)
 		(fp_rect
+			(start -0.895 0.06)
+			(end -0.125 0.88)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.Paste")
+			(uuid "f6958888-9289-4f77-8528-3cbade8f4741")
+		)
+		(fp_rect
+			(start 0.125 0.06)
+			(end 0.895 0.88)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.Paste")
+			(uuid "313f4cab-2107-4849-965e-2656fd523711")
+		)
+		(fp_rect
+			(start -0.895 -0.9)
+			(end -0.125 -0.08)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.Paste")
+			(uuid "8de82d2c-a93f-4961-b67c-fe7b9ecf0668")
+		)
+		(fp_rect
+			(start 0.125 -0.9)
+			(end 0.895 -0.08)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.Paste")
+			(uuid "f6204bf4-212b-4419-89a8-36d6fd350684")
+		)
+		(fp_rect
 			(start -2.5 -2.5)
 			(end 2.5 2.5)
 			(stroke
@@ -28280,6 +27676,18 @@
 			(layer "F.Fab")
 			(uuid "a254569f-3183-4e7a-9a82-34d6320317f4")
 		)
+		(fp_text user "${REFERENCE}"
+			(at 0 6 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "ad3d7a0a-6a82-4ada-8ba8-f245372b3b66")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(pad "1" smd rect
 			(at -1.845 -1)
 			(size 0.25 0.81)
@@ -28287,7 +27695,7 @@
 			(net "Net-(U4-N{slash}C)")
 			(pinfunction "N/C_1")
 			(pintype "passive")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "2a5cc0d8-a618-4485-98bb-512832410c38")
 		)
 		(pad "2" smd rect
@@ -28297,7 +27705,7 @@
 			(net "Net-(U4-RF_in)")
 			(pinfunction "RF_in_2")
 			(pintype "passive")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "ae8bd80a-f4f8-4e61-b5f1-2857d39e5e43")
 		)
 		(pad "3" smd rect
@@ -28307,7 +27715,7 @@
 			(net "Net-(U4-DATA)")
 			(pinfunction "DATA_3")
 			(pintype "input")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "408d8cac-ab10-4baf-b692-5d439256d9eb")
 		)
 		(pad "4" smd rect
@@ -28317,7 +27725,7 @@
 			(net "/ATT_CLK")
 			(pinfunction "CLK_4")
 			(pintype "input")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "dc136d28-0378-4e0b-9d1b-2fd37e5ee1ae")
 		)
 		(pad "5" smd rect
@@ -28327,107 +27735,107 @@
 			(net "/ATT_LE")
 			(pinfunction "LE_5")
 			(pintype "input")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "712fe522-dbe9-49a0-9988-f3591a6df064")
 		)
 		(pad "6" smd rect
-			(at -1 1.845 90)
+			(at -1 1.845 270)
 			(size 0.25 0.81)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "+3V3_PLL_D")
 			(pinfunction "VDD_6")
 			(pintype "power_in")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "5cbdaec3-ecac-4d1a-9c48-6feba334638c")
 		)
 		(pad "7" smd rect
-			(at -0.5 1.845 90)
+			(at -0.5 1.845 270)
 			(size 0.25 0.81)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "unconnected-(U4-N{slash}C-Pad7)")
 			(pinfunction "N/C_7")
 			(pintype "no_connect")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "777f3505-42f3-4ad0-b747-85038c1e3123")
 		)
 		(pad "8" smd rect
-			(at 0 1.845 90)
+			(at 0 1.845 270)
 			(size 0.25 0.81)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "unconnected-(U4-N{slash}C-Pad8)")
 			(pinfunction "N/C_8")
 			(pintype "no_connect")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "ce3bc1b8-6d9e-4dde-a67d-d299da4da8e6")
 		)
 		(pad "9" smd rect
-			(at 0.5 1.845 90)
+			(at 0.5 1.845 270)
 			(size 0.25 0.81)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "+3V3_PLL_D")
 			(pinfunction "VDD_9")
 			(pintype "power_in")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "244d53e7-7861-41a2-9252-82e330d7dae8")
 		)
 		(pad "10" smd rect
-			(at 1 1.845 90)
+			(at 1 1.845 270)
 			(size 0.25 0.81)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "GND")
 			(pinfunction "GND_10")
 			(pintype "power_in")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "4235c8a9-38b0-48e6-abad-17ec5a9c3bc7")
 		)
 		(pad "11" smd rect
-			(at 1.845 1 180)
+			(at 1.845 1)
 			(size 0.25 0.81)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "GND")
 			(pinfunction "GND_11")
 			(pintype "power_in")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "d2817746-d9e4-4710-8acd-d57c12cf352e")
 		)
 		(pad "12" smd rect
-			(at 1.845 0.5 180)
+			(at 1.845 0.5)
 			(size 0.25 0.81)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "GND")
 			(pinfunction "GND_12")
 			(pintype "power_in")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "7bfb9a16-ee62-434d-8873-dba2cb0dc9f1")
 		)
 		(pad "13" smd rect
-			(at 1.845 0 180)
+			(at 1.845 0)
 			(size 0.25 0.81)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "+3V3_PLL_D")
 			(pinfunction "VDD_13")
 			(pintype "power_in")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "3036f3fa-d6b5-4e92-a697-6e575e567e45")
 		)
 		(pad "14" smd rect
-			(at 1.845 -0.5 180)
+			(at 1.845 -0.5)
 			(size 0.25 0.81)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "Net-(U4-RFout)")
 			(pinfunction "RFout_14")
 			(pintype "passive")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "91940960-9050-4a3e-9327-319da8c0d523")
 		)
 		(pad "15" smd rect
-			(at 1.845 -1 180)
+			(at 1.845 -1)
 			(size 0.25 0.81)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "Net-(U4-C8)")
 			(pinfunction "C8_15")
 			(pintype "input")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "6ca9e92c-b75b-4e49-82f0-38bf764121e3")
 		)
 		(pad "16" smd rect
@@ -28437,7 +27845,7 @@
 			(net "Net-(U4-C4)")
 			(pinfunction "C4_16")
 			(pintype "input")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "833a85fd-e71c-41fc-834d-60bfeedfe911")
 		)
 		(pad "17" smd rect
@@ -28447,7 +27855,7 @@
 			(net "Net-(U4-C2)")
 			(pinfunction "C2_17")
 			(pintype "input")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "d4d88abb-75c0-48e5-b4aa-0126affc14a2")
 		)
 		(pad "18" smd rect
@@ -28457,7 +27865,7 @@
 			(net "GND")
 			(pinfunction "GND_18")
 			(pintype "power_in")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "43b97c2f-9265-4d4a-9de2-a8532300af05")
 		)
 		(pad "19" smd rect
@@ -28467,7 +27875,7 @@
 			(net "Net-(U4-C1)")
 			(pinfunction "C1_19")
 			(pintype "input")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "70c62d63-e866-471c-b070-7addb09e4584")
 		)
 		(pad "20" smd rect
@@ -28477,7 +27885,7 @@
 			(net "Net-(U4-C0.5)")
 			(pinfunction "C0.5_20")
 			(pintype "input")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
 			(uuid "aa2f4737-ca29-44e4-94a2-54f803f6e415")
 		)
 		(pad "21" smd rect
@@ -28487,7 +27895,8 @@
 			(net "GND")
 			(pinfunction "GND_21")
 			(pintype "power_in")
-			(solder_mask_margin 0.102)
+			(solder_mask_margin 0)
+			(solder_paste_margin -2)
 			(uuid "bcdbc204-c365-478c-8c8d-4d133bfed7af")
 		)
 		(embedded_fonts no)
@@ -28558,12 +27967,6 @@
 		(path "/cec0d2b9-a3e0-4b99-b7c0-6fca630c04c0")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28716,12 +28119,6 @@
 		(path "/f0a33ba2-2305-418e-9359-261ea03c982c")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28874,12 +28271,6 @@
 		(path "/958971c6-87ff-4f88-a1a0-3799184d0191")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29032,12 +28423,6 @@
 		(path "/50b7fcd3-29c7-45c4-aaa2-f9ed1e5e998e")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29192,12 +28577,6 @@
 		(path "/edfbfbff-9ca8-4f68-9588-a34e59c70d4b")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29413,12 +28792,6 @@
 		(path "/d9302e44-7629-47fb-b9f8-3382ed565693")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29587,12 +28960,6 @@
 		(path "/acc5ca41-ad1a-48a3-977c-c407f566700e")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29745,12 +29112,6 @@
 		(path "/be3302d6-ee4b-464e-bb57-8e6e8015ed41")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29903,12 +29264,6 @@
 		(path "/0bbd1d87-f1e5-45b9-9b99-7bc2590df31b")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30074,12 +29429,6 @@
 		(path "/ec361382-93db-49eb-9ac9-967b9fa4a997")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30232,12 +29581,6 @@
 		(path "/ed79060c-eb2c-4b71-93e9-1a08ed66787b")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30390,12 +29733,6 @@
 		(path "/70581b78-a8a4-4d03-b4cf-eef6e39bbe28")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30548,12 +29885,6 @@
 		(path "/82bd3cd6-d8fe-4040-b43d-e0578b94664d")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30706,12 +30037,6 @@
 		(path "/a6f654b3-b3a1-4dd4-a1bc-4e599e24e7bb")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30864,12 +30189,6 @@
 		(path "/e7a3e34d-3093-49a8-ae5c-57ff7eda1e79")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -31150,12 +30469,6 @@
 		(path "/ee657769-bb12-410c-b55f-8f1a0eb99d31")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "5" "8" "3" "6" "9" "4" "7" "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -31416,7 +30729,7 @@
 			(net "Net-(U13-FBX)")
 			(pinfunction "FBX_1")
 			(pintype "input")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "8cfded45-0ea3-4638-82da-9e022f1e7f29")
 		)
 		(pad "2" smd roundrect
@@ -31427,7 +30740,7 @@
 			(net "Net-(U13-VC)")
 			(pinfunction "VC_2")
 			(pintype "output")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "8eb72075-dbd7-4697-8ecd-2298f0349d33")
 		)
 		(pad "3" smd roundrect
@@ -31438,7 +30751,7 @@
 			(net "+12V_IN")
 			(pinfunction "VIN_3")
 			(pintype "input")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "13cdd66b-3bfb-4712-950c-268cbef43320")
 		)
 		(pad "4" smd roundrect
@@ -31449,7 +30762,7 @@
 			(net "Net-(U13-SW)")
 			(pinfunction "SW_4")
 			(pintype "output")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "43793cac-1caa-44dc-a8f9-65015c1da765")
 		)
 		(pad "5" smd roundrect
@@ -31460,7 +30773,7 @@
 			(net "Net-(U13-~{SHDN})")
 			(pinfunction "~{SHDN}_5")
 			(pintype "input")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "9c18c527-f699-48cc-86db-22c5602ba3ca")
 		)
 		(pad "6" smd roundrect
@@ -31471,7 +30784,7 @@
 			(net "Net-(U13-RT)")
 			(pinfunction "RT_6")
 			(pintype "passive")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "9c5bcb5d-89d7-45d3-9350-4bec6d439001")
 		)
 		(pad "7" smd roundrect
@@ -31482,7 +30795,7 @@
 			(net "Net-(U13-SS)")
 			(pinfunction "SS_7")
 			(pintype "passive")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "df936774-fa93-4552-b06b-1700ebb4c336")
 		)
 		(pad "8" smd roundrect
@@ -31493,7 +30806,7 @@
 			(net "GND")
 			(pinfunction "SYNC_8")
 			(pintype "input")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "9bafe815-456b-4fe7-b76f-30927b9d18c8")
 		)
 		(pad "9" smd rect
@@ -31503,7 +30816,7 @@
 			(net "GND")
 			(pinfunction "GND_9")
 			(pintype "power_in")
-			(solder_mask_margin 0.05)
+			(solder_mask_margin 0)
 			(uuid "c0135532-e7d9-4e1c-a7ca-680f6dd4b481")
 		)
 		(embedded_fonts no)
@@ -31565,12 +30878,6 @@
 		(path "/3d29d773-e6fe-4306-ba0b-35acf54e8fd8")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
@@ -31722,12 +31029,6 @@
 		(path "/760c6ed1-3688-4077-a7a5-b65b69accf8b")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -31880,12 +31181,6 @@
 		(path "/fc22a63d-edea-419c-9f75-fb3e45f41380")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32038,12 +31333,6 @@
 		(path "/e6dadffd-c7c5-4f29-9556-4e9cb674cd75")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32196,12 +31485,6 @@
 		(path "/08f254ac-c178-42e5-aaba-bd5d9910e4e3")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32354,12 +31637,6 @@
 		(path "/397bf6f0-9774-4f9d-b75c-e453f295aeaa")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32512,12 +31789,6 @@
 		(path "/c05d38d1-cdf0-41af-bb10-2fac04213891")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32670,12 +31941,6 @@
 		(path "/53d58461-e28f-4c5e-8fe9-558fdc9e5804")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32828,12 +32093,6 @@
 		(path "/1d497a78-1a4c-460d-83db-3a7d663bbf43")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32986,12 +32245,6 @@
 		(path "/b5599ac9-dc0f-4ff9-8eff-111e53315e8e")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33144,12 +32397,6 @@
 		(path "/6d2be84c-3095-4634-8f9c-5f4ab88304aa")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33293,12 +32540,6 @@
 		(path "/013c06ec-0ef5-4fa6-9854-c49f2f120067")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33577,12 +32818,6 @@
 		(path "/dcb478aa-024e-4555-89b0-63a8f5cecfa6")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33735,12 +32970,6 @@
 		(path "/c13f5449-0a18-4457-962f-7ff9eae1fc06")
 		(sheetname "/")
 		(sheetfile "synth-vco.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
