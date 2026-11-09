@@ -166,24 +166,6 @@
 				)
 			)
 			(pin power_in line
-				(at -20.32 0 0)
-				(length 7.62)
-				(name "VOCM"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
 				(at 0 19.05 270)
 				(length 7.62)
 				(name "VS+"
@@ -284,6 +266,26 @@
 					)
 				)
 				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "THS4551IDGKT_1_1"
+			(pin passive line
+				(at -20.32 0 0)
+				(length 7.62)
+				(name "VOCM"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
 					(effects
 						(font
 							(size 1.27 1.27)
