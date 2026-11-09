@@ -9079,6 +9079,18 @@
 		)
 		(uuid "fa78cc33-f079-4519-b938-f8bbc5c99581")
 	)
+	(text "6V Buck"
+		(exclude_from_sim no)
+		(at 196.85 112.522 0)
+		(effects
+			(font
+				(size 3.302 3.302)
+				(thickness 0.6604)
+				(bold yes)
+			)
+		)
+		(uuid "02820ffc-e876-4dfd-90dd-f4ed0cd541f8")
+	)
 	(text "5V Lines"
 		(exclude_from_sim no)
 		(at 492.506 112.522 0)
